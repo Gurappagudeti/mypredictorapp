@@ -1,0 +1,7 @@
+tpot
+setuptools
+joblib
+pandas
+scikit-learn
+openpyxl
+streamlit
